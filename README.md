@@ -2,14 +2,6 @@
 
 ![Image text](https://github.com/PhycomEspol/ClicManos/blob/main/Portada.png)
 
-## Tabla de Contenido
-- [Descripción](#descripción)
-- [Materiales](#materiales)
-- [Requisitos](#requisitos)
-- [Librerias](#librerias)
-- [Uso](#uso)
-- [Colaboradores](#colaboradores)
-
 ## Descripción📜 
 
 Este es un proyecto en Python que utiliza la biblioteca mediapipe para detectar las manos en tiempo real a través de la cámara de un dispositivo y controlar el cursor del mouse en función de la posición de las manos detectadas.
