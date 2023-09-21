@@ -3,12 +3,12 @@
 ![Image text](https://github.com/PhycomEspol/ClicManos/blob/main/Portada.png)
 
 ## Tabla de Contenido
-- [Descripción](#descripción-)
-- [Materiales](#materiales-)
-- [Requisitos](#requisitos-)
-- [Librerias](#librerías-)
-- [Uso](#uso-)
-- [Colaboradores](#colaboradores-)
+- [Descripción](#descripción)
+- [Materiales](#materiales)
+- [Requisitos](#requisitos)
+- [Librerias](#librerias)
+- [Uso](#uso)
+- [Colaboradores](#colaboradores)
 
 ## Descripción📜 
 
