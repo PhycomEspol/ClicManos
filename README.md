@@ -6,7 +6,7 @@
 - [Descripción](#descripción-)
 - [Materiales](#materiales-)
 - [Requisitos](#requisitos-)
-- [Librerías](#librerías-)
+- [Librerias](#librerías-)
 - [Uso](#uso-)
 - [Colaboradores](#colaboradores-)
 
